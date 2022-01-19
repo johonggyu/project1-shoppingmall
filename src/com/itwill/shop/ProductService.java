@@ -8,4 +8,7 @@ public class ProductService {
 	public void selectAll() {
 		
 	}
+	public void selectByPK() {
+
+	}
 }
