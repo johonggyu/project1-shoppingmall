@@ -5,4 +5,7 @@ public class ProductService {
 	public ProductService() {
 		memberDao=new MemberDao();
 	}
+	public void selectAll() {
+		
+	}
 }
